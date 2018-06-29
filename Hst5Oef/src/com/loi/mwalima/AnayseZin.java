@@ -83,10 +83,33 @@ public class AnayseZin {
         }
         i1 =i2 + 1;
         return woordlijst;
+    }
+
+    public int getAantalLeestekens(){
+        //do while constructie
+        int nTekens = 0;
+        int i = 0;
+        StringBuilder leesteken = new StringBuilder();
+        do{
+            char c = zin.charAt(i);
+
+            switch (c) {
+                case '?':
+                case '!':
+                case ',':
+                    leesteken.append(c);
+                    System.out.println(nTekens + "leestekens gevonden");
+                    nTekens++;
+            }
+
+        }while (i++ < zin.length());
+
+        return nTekens;
 
     }
 
     public String toString() {
+
         return "de index die terug gegeven is: " + getIndex(i1);
     }
 }
