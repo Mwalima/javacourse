@@ -94,6 +94,6 @@ public class testPersoon {
         String ejg = "Game".replace('a','Z').trim().concat("Aa");
         ejg.substring(0,2);
         System.out.println(ejg);
-       
+
     }
 }

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af3b2090-68ea-47cd-9d76-eedf71939c84" name="Default" comment="" />
+    <list default="true" id="af3b2090-68ea-47cd-9d76-eedf71939c84" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hst5Oef/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hst5Oef/src/com/loi/mwalima/AnayseZin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hst5Oef/src/com/loi/mwalima/TestAnalyseZin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hdst3Oef/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hdst3Oef/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HfdstOef4/com/loi/mwalima/MyCanvas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HfdstOef4/com/loi/mwalima/MyCanvas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HfdstOef4/com/loi/mwalima/testPersoon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HfdstOef4/com/loi/mwalima/testPersoon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loi/mwalima/testPersoon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loi/mwalima/testPersoon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oefenopgaven/Oefenopgaven+hoofdstuk+4+-+20465 (1).pdf" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,7 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="testArray.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MyCanvas.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/MyCanvas.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testInwoner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/testInwoner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testArray.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/testArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -24,14 +56,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyCanvas.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/MyCanvas.java">
+      <file leaf-file-name="TweeDimensionalArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/TweeDimensionalArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testTweeDimensionaleArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/testTweeDimensionaleArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -45,6 +83,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -54,7 +95,6 @@
         <option value="$PROJECT_DIR$/src/com/loi/mwalima/Persoon.java" />
         <option value="$PROJECT_DIR$/src/com/loi/mwalima/StringTester.java" />
         <option value="$PROJECT_DIR$/src/com/loi/mwalima/StringUtil.java" />
-        <option value="$PROJECT_DIR$/src/com/loi/mwalima/testPersoon.java" />
         <option value="$PROJECT_DIR$/src/com/loi/mwalima/ArrayUtil.java" />
         <option value="$PROJECT_DIR$/src/com/loi/mwalima/Inwoner.java" />
         <option value="$PROJECT_DIR$/src/com/loi/mwalima/testInwoner.java" />
@@ -64,21 +104,31 @@
         <option value="$PROJECT_DIR$/src/com/loi/mwalima/testTweeDimensionaleArray.java" />
         <option value="$PROJECT_DIR$/src/com/loi/mwalima/testArray.java" />
         <option value="$PROJECT_DIR$/src/com/loi/mwalima/MyCanvas.java" />
+        <option value="$PROJECT_DIR$/src/com/loi/mwalima/testPersoon.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="58" />
-    <option name="y" value="6" />
-    <option name="width" value="855" />
-    <option name="height" value="773" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="5" />
+    <option name="y" value="30" />
+    <option name="width" value="689" />
+    <option name="height" value="664" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -87,15 +137,29 @@
               <item name="HfdstOef4" type="b2602c69:ProjectViewProjectNode" />
               <item name="HfdstOef4" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HfdstOef4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HfdstOef4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HfdstOef4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HfdstOef4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mwalima" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -119,7 +183,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.loi.mwalima.testArray" />
+      <option name="MAIN_CLASS_NAME" value="com.loi.mwalima.testPersoon" />
       <module name="HfdstOef4" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
@@ -175,43 +239,67 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528208292294</updated>
+      <workItem from="1529584019417" duration="1221000" />
+      <workItem from="1529908570101" duration="6416000" />
+      <workItem from="1529929066332" duration="125000" />
+      <workItem from="1530097336621" duration="23000" />
     </task>
+    <task id="LOCAL-00001" summary="hst 4 test oef">
+      <created>1529928907220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529928907220</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7785000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="-4" width="1319" height="773" extended-state="6" />
+    <frame x="0" y="27" width="1366" height="676" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32882884" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Run Dashboard" order="7" visible="true" weight="0.3153153" />
+      <window_info anchor="bottom" id="Run Dashboard" order="7" visible="true" weight="0.31514084" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32967034" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13971147" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2057101" />
+      <window_info anchor="right" id="Database" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32733813" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hst 4 test oef" />
+    <option name="LAST_COMMIT_MESSAGE" value="hst 4 test oef" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -219,6 +307,101 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/MyCanvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/testInwoner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/TweeDimensionalArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/testTweeDimensionaleArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/testArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding>
+            <marker date="1528724342428" expanded="true" signature="127:360" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/testPersoon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/Persoon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/testPersoon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/Persoon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/testArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding>
+            <marker date="1528724342428" expanded="true" signature="127:360" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/MyCanvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/testTweeDimensionaleArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -237,12 +420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -277,13 +454,6 @@
     <entry file="file://$PROJECT_DIR$/HfdstOef4.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/Persoon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/StringUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -306,23 +476,35 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/FillMultiArray.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/TweeDimensionalArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/ArrayUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/jdk-10.0.1/lib/src.zip!/java.desktop/java/awt/Color.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/Persoon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/testPersoon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/TweeDimensionalArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -333,10 +515,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/testPersoon.java">
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/MyCanvas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="18" column="65" lean-forward="true" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+        <state relative-caret-position="540">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -347,33 +532,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/jdk-10.0.1/lib/src.zip!/java.desktop/java/awt/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="961" column="35" selection-start-line="961" selection-start-column="24" selection-end-line="961" selection-end-column="35" />
-          <folding>
-            <element signature="e#32911#32912#0" expanded="true" />
-            <element signature="e#32962#32963#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/testArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
           <folding>
             <marker date="1528724342428" expanded="true" signature="127:360" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/MyCanvas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
