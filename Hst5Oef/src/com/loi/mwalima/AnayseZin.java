@@ -1,7 +1,8 @@
 package com.loi.mwalima;
 
 import java.util.ArrayList;
-import java.util.Arrays;
+
+import static java.lang.String.valueOf;
 
 public class AnayseZin {
 
@@ -9,7 +10,8 @@ public class AnayseZin {
     private int aantalWoorden;
     int i1 = 0;
     int i2 = 0;
-    public ArrayList<StringBuilder> woorden;
+    public String woord;
+    public ArrayList<String[]> woorden;
 
     /**
      *
@@ -66,46 +68,76 @@ public class AnayseZin {
         return it;
     }
 
-    public StringBuilder getWoord(){
-        //zet de teller op 0
-        i1 = 0;
-        StringBuilder woordlijst = new StringBuilder();
+    public String[] getWoord() {
 
-        for(int i = 0; i < zin.length(); i++) {
-            //tel het aantal characters
-            i2 = getIndex(i);char c = zin.charAt(i);
-            woordlijst.append(c);
-            //zoek naar de spatie waardoor de letters ervoor dus een woord moeten zijn
-            if(zin.charAt(i) == ' '){
+        String str = zin;
+        String [] arrOfStr = str.split(" ", 5);
 
-                return woordlijst;
-            }
-        }
-        i1 =i2 + 1;
-        return woordlijst;
+        return arrOfStr;
     }
 
-    public int getAantalLeestekens(){
+    public int getAantalLeestekens() {
         //do while constructie
         int nTekens = 0;
         int i = 0;
         StringBuilder leesteken = new StringBuilder();
-        do{
-            char c = zin.charAt(i);
+        do {
+            System.out.println(zin.length());
+            if (i < zin.length() - 1) {
 
-            switch (c) {
-                case '?':
-                case '!':
-                case ',':
-                    leesteken.append(c);
-                    System.out.println(nTekens + "leestekens gevonden");
-                    nTekens++;
+                char c = zin.charAt(i);
+
+                switch (c) {
+                    case '?':
+                    case '!':
+                    case ',':
+                        //leesteken.append(c);
+                        ++nTekens;
+                        System.out.println(nTekens + "leestekens gevonden");
+                }
             }
 
-        }while (i++ < zin.length());
-
+        } while (i++ < zin.length());
         return nTekens;
+    }
 
+    public void woordenNaarLijst() {
+        String[] s;
+
+        while(true){
+            s = getWoord();
+            if(zin.length() == 0)break;
+                woorden.add(s);
+                aantalWoorden++;
+        }
+    }
+
+    public String woordenNaarLijst1(String woord) {
+
+        StringBuilder nieuweZin = new StringBuilder();
+        nieuweZin.append(zin);
+
+        if (woord.length() > 0) {
+            nieuweZin.append(woord);
+        }
+        return nieuweZin.toString();
+    }
+
+    public String langsteWoord(){
+        String[] s;
+        s = getWoord();
+
+
+       for(String element:s) {
+           int i = 0;
+           i++;
+
+           if(s[i].length() >= element.length())
+               continue;
+               return element.toString();
+
+       }
+        return s.toString();
     }
 
     public String toString() {
