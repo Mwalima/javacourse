@@ -2,9 +2,9 @@ package com.loi.mwalima;
 
 public class Boek implements Boekgegevens{
 
-    protected String titel;
-    protected int ISBN;
-    protected String uitgever;
+    private String titel;
+    private int ISBN;
+    private String uitgever;
 
     public Boek(String titel, int ISBN, String uitgever) {
         this.titel = titel;

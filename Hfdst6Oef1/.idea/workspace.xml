@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3583a782-e0f6-48c4-8c80-59e46d2837a4" name="Default" comment="folder clean" />
+    <list default="true" id="3583a782-e0f6-48c4-8c80-59e46d2837a4" name="Default" comment="folder clean">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hst6Oef/com/loi/mwalima/Boek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hst6Oef/com/loi/mwalima/Exemplaar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hst6Oef/com/loi/mwalima/testBoek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loi/mwalima/Boek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loi/mwalima/Boek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loi/mwalima/Exemplaar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loi/mwalima/Exemplaar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loi/mwalima/testBoek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loi/mwalima/testBoek.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Boek.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Boek.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/Boek.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="38" column="33" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="33" />
+            <state relative-caret-position="30">
+              <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -24,8 +34,8 @@
       <file leaf-file-name="Exemplaar.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/Exemplaar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+            <state relative-caret-position="240">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -33,17 +43,17 @@
       <file leaf-file-name="Boekgegevens.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/Boekgegevens.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testBoek.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="testBoek.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/testBoek.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="150">
+              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -55,6 +65,7 @@
       <list>
         <option value="Class" />
         <option value="Interface" />
+        <option value="Arquillian JUnit Test Class" />
       </list>
     </option>
   </component>
@@ -65,10 +76,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/loi/mwalima/Boeken.java" />
-        <option value="$PROJECT_DIR$/src/com/loi/mwalima/testBoek.java" />
-        <option value="$PROJECT_DIR$/src/com/loi/mwalima/Boekgegevens.java" />
         <option value="$PROJECT_DIR$/src/com/loi/mwalima/Exemplaar.java" />
+        <option value="$PROJECT_DIR$/src/com/loi/mwalima/ExemplaarTest.java" />
+        <option value="$PROJECT_DIR$/src/com/loi/mwalima/Boekgegevens.java" />
         <option value="$PROJECT_DIR$/src/com/loi/mwalima/Boek.java" />
+        <option value="$PROJECT_DIR$/src/com/loi/mwalima/testBoek.java" />
       </list>
     </option>
   </component>
@@ -81,11 +93,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="418" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-36" />
     <option name="y" value="27" />
-    <option name="width" value="771" />
-    <option name="height" value="660" />
+    <option name="width" value="1210" />
+    <option name="height" value="683" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -93,21 +105,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Hst6Oef" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hst6Oef" type="462c0819:PsiDirectoryNode" />
+              <item name="Hfdst6Oef1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hfdst6Oef1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Hst6Oef" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hst6Oef" type="462c0819:PsiDirectoryNode" />
+              <item name="Hfdst6Oef1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hfdst6Oef1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Hst6Oef" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hst6Oef" type="462c0819:PsiDirectoryNode" />
+              <item name="Hfdst6Oef1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hfdst6Oef1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mwalima" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -117,13 +130,15 @@
       </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -132,6 +147,12 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.loi.mwalima" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.loi.mwalima" />
     </key>
@@ -210,39 +231,41 @@
       <workItem from="1532956923369" duration="26000" />
       <workItem from="1532956987031" duration="576000" />
       <workItem from="1533050271556" duration="152000" />
+      <workItem from="1533283644099" duration="1404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2844000" />
+    <option name="totallyTimeSpent" value="4248000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1366" height="692" extended-state="6" />
+    <frame x="-36" y="27" width="1210" height="683" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.26434782" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.36301368" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32982457" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.36869565" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18667643" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2107438" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32982457" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -282,6 +305,34 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/Boek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/Exemplaar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/Boekgegevens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/testBoek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/Boek.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -422,34 +473,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/testBoek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../Hfdst1Oef2/nbproject/private/private.properties">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/Boekgegevens.java">
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/ExemplaarTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="75">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/Exemplaar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="59" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+        <state relative-caret-position="240">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Hfdst1Oef2/nbproject/private/private.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/Boek.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="38" column="33" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="33" />
+        <state relative-caret-position="30">
+          <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/Boekgegevens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loi/mwalima/testBoek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
     </entry>
