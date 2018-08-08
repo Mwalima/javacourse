@@ -6,6 +6,10 @@ public class Boek implements Boekgegevens{
     private int ISBN;
     private String uitgever;
 
+    public Boek(){
+
+    }
+
     public Boek(String titel, int ISBN, String uitgever) {
         this.titel = titel;
         this.ISBN = ISBN;
