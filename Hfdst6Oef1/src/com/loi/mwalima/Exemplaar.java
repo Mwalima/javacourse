@@ -6,6 +6,7 @@ public class Exemplaar extends Boek implements Boekgegevens {
     public String staat;
     protected double prijs;
     protected int druk;
+    private String ="Exemplaar";
 
     public Exemplaar(String titel, int ISBN, String uitgever) {
         super(titel, ISBN, uitgever);

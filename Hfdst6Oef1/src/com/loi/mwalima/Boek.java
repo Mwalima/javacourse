@@ -5,6 +5,7 @@ public class Boek implements Boekgegevens{
     private String titel;
     private int ISBN;
     private String uitgever;
+    private String tekst ="boek";
 
     public Boek(String titel, int ISBN, String uitgever) {
         this.titel = titel;
