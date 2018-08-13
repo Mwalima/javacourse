@@ -9,7 +9,8 @@ package hst6test;
  *
  * @author Mwalima
  */
-public interface Interview extends Planner{
+public interface Planner {
     
-    public String conductInterview();    
+    public String createDayPlanning();    
+    
 }
