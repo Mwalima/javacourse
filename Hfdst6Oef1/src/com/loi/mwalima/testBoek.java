@@ -17,5 +17,8 @@ public class testBoek {
         exp2.staat ="prima staat";
         System.out.println(exp2.getBoekGegevens());
 
+        Boek boek2 = new Boek("the het je",12345678,"hello");
+        System.out.println(boek2.getBoekGegevens());
+
     }
 }
